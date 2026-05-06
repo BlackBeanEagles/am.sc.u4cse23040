@@ -1,0 +1,12 @@
+Fetched 5 notifications in 0.00 ms | added to top-10: 5
+
+Priority Inbox Top 10
+==========================================================================================
+ 1. [Placement] 2026-04-22 17:51:18 UTC | b283218f-ea5a-4b7c-93a9-1f2f240d64b0 | CSX Corporation hiring
+ 2. [Placement] 2026-04-22 17:49:42 UTC | 8a7412bd-6065-4d09-8501-a37f11cc848b | Advanced Micro Devices Inc. hiring
+ 3. [Result   ] 2026-04-22 17:51:30 UTC | d146095a-0d86-4a34-9e69-3900a14576bc | mid-sem
+ 4. [Result   ] 2026-04-22 17:50:54 UTC | 00c5513a-142b-4bbc-8678-eefec65e1ede | mid-sem
+ 5. [Event    ] 2026-04-22 17:51:06 UTC | 81589ada-0ad3-4f77-9554-f52fb558e09d | farewell
+==========================================================================================
+
+Saved screenshot: C:\Users\hridy\Desktop\am.sc.u4cse23040\priority_inbox_screenshot.png
